@@ -1,5 +1,7 @@
 # Career Transition Analysis
 
+**[中文](README.md) | [English](README_EN.md)**
+
 > 不再用“我适合什么”做模糊判断，而是用经历证据回答：**我能转去哪、为什么、差在哪、下一步做什么。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -254,7 +256,8 @@ career-transition-analysis/
 ├── SKILL.md                         # 主流程、判断规则与输出规范
 ├── README.md                        # 产品说明与使用指南
 ├── examples/
-│   └── personal-manual-template.md  # 可复制的个人说明书模板
+│   ├── personal-manual-template.md  # 可复制的个人说明书模板
+│   └── personal-manual-template-en.md # English personal manual template
 ├── references/
 │   ├── schemas.md                   # 结构化字段与数据对象
 │   ├── scoring.md                   # 匹配、差距与置信度规则
