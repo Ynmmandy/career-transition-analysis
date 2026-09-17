@@ -1,0 +1,4 @@
+interface:
+  display_name: "转行分析师"
+  short_description: "提取可迁移能力，匹配目标岗位并制定补差与转行预测路线"
+  default_prompt: "使用 $career-transition-analysis 分析我的个人说明书，推荐目标岗位并制定 Gap 补齐路线。"

@@ -1,0 +1,10 @@
+.DS_Store
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*.csv
+private/
+examples/private/
